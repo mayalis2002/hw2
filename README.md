@@ -1,2 +1,2 @@
 # hw2
-casually mistaken (:) basic programming stuff 01.09
+programming basics int float if-else
